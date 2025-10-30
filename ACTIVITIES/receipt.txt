@@ -1,0 +1,54 @@
+
+=== SEAFOOD BOIL RECEIPT ===
+Shrimp x2 - ₱50
+Flavor: Lemon Pepper
+TOTAL: ₱50
+-----------------------------
+
+=== SEAFOOD BOIL RECEIPT ===
+Shrimp x1 - ₱25
+Flavor: Spicy Cajun
+TOTAL: ₱25
+-----------------------------
+
+=== SEAFOOD BOIL RECEIPT ===
+Shrimp x1 - ₱25
+Flavor: Spicy Cajun
+TOTAL: ₱25
+-----------------------------
+
+=== SEAFOOD BOIL RECEIPT ===
+Crab x1 - ₱80
+Flavor: Garlic Butter
+TOTAL: ₱80
+-----------------------------
+
+=== SEAFOOD BOIL RECEIPT ===
+Shrimp x1 - ₱25
+Flavor: Garlic Butter
+TOTAL: ₱25
+-----------------------------
+
+=== SEAFOOD BOIL RECEIPT ===
+Shrimp x1 - ₱25
+Flavor: Spicy Cajun
+TOTAL: ₱25
+-----------------------------
+
+=== SEAFOOD BOIL RECEIPT ===
+Shrimp x1 - ₱25
+Flavor: Garlic Butter
+TOTAL: ₱25
+-----------------------------
+
+=== SEAFOOD BOIL RECEIPT ===
+Shrimp x1 - ₱25
+Flavor: Lemon Pepper
+TOTAL: ₱25
+-----------------------------
+
+=== SEAFOOD BOIL RECEIPT ===
+Shrimp x1 - ₱25
+Flavor: Spicy Cajun
+TOTAL: ₱25
+-----------------------------
